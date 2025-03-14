@@ -387,3 +387,16 @@
 00:43:41 INFO  [main] TC002_LoginTest - Password enetred
 00:43:41 INFO  [main] TC002_LoginTest - Clicked on Login button
 00:43:42 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+10:59:40 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+10:59:41 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+10:59:41 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+10:59:41 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+10:59:43 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+10:59:43 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+10:59:43 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+10:59:52 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+10:59:52 INFO  [main] TC002_LoginTest - login page opened
+10:59:52 INFO  [main] TC002_LoginTest - Email address enetred
+10:59:52 INFO  [main] TC002_LoginTest - Password enetred
+10:59:53 INFO  [main] TC002_LoginTest - Clicked on Login button
+10:59:53 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
