@@ -1,0 +1,389 @@
+00:29:47 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+00:29:48 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+00:29:48 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+00:29:48 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+00:29:51 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+00:29:51 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+00:29:51 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+00:30:20 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+00:30:20 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+00:30:21 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+00:30:21 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+00:30:23 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+00:30:23 ERROR [main] TC001_AccountRegistrationTest - Test case failed due to validation message is correct
+00:30:23 DEBUG [main] TC001_AccountRegistrationTest - Debug logs
+09:12:17 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+09:12:18 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+09:12:19 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+09:12:19 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+09:12:21 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+09:12:21 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+09:12:21 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+22:15:03 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+22:15:14 INFO  [main] TC002_LoginTest - TC002_LoginTest failed
+22:16:47 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+22:16:47 INFO  [main] TC002_LoginTest - login page opened
+22:16:47 INFO  [main] TC002_LoginTest - Email address enetred
+22:16:48 INFO  [main] TC002_LoginTest - Password enetred
+22:16:48 INFO  [main] TC002_LoginTest - Clicked on Login button
+22:16:48 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+04:10:28 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+21:29:37 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:29:49 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+21:29:49 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+21:29:50 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+21:29:50 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+21:29:52 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+21:29:52 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+21:29:52 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+21:29:59 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+21:29:59 INFO  [main] TC002_LoginTest - login page opened
+21:29:59 INFO  [main] TC002_LoginTest - Email address enetred
+21:30:00 INFO  [main] TC002_LoginTest - Password enetred
+21:30:00 INFO  [main] TC002_LoginTest - Clicked on Login button
+21:30:03 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+21:31:05 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:31:09 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+21:31:09 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+21:31:10 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+21:31:10 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+21:31:12 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+21:31:12 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+21:31:12 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+21:31:18 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+21:31:18 INFO  [main] TC002_LoginTest - login page opened
+21:31:19 INFO  [main] TC002_LoginTest - Email address enetred
+21:31:19 INFO  [main] TC002_LoginTest - Password enetred
+21:31:19 INFO  [main] TC002_LoginTest - Clicked on Login button
+21:31:20 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+21:33:15 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:33:52 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:35:20 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:37:18 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:38:57 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:39:16 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:39:24 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+21:39:24 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+21:39:25 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+21:39:25 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+21:39:27 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+21:39:27 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+21:39:27 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+21:39:35 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+21:39:35 INFO  [main] TC002_LoginTest - login page opened
+21:39:36 INFO  [main] TC002_LoginTest - Email address enetred
+21:39:36 INFO  [main] TC002_LoginTest - Password enetred
+21:39:36 INFO  [main] TC002_LoginTest - Clicked on Login button
+21:39:37 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+21:40:52 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:41:23 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:45:31 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:45:37 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+21:45:37 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+21:45:38 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+21:45:38 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+21:45:41 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+21:45:41 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+21:45:41 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+21:46:02 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\grouping.xml
+
+21:46:07 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+21:46:07 INFO  [main] TC002_LoginTest - login page opened
+21:46:08 INFO  [main] TC002_LoginTest - Email address enetred
+21:46:08 INFO  [main] TC002_LoginTest - Password enetred
+21:46:09 INFO  [main] TC002_LoginTest - Clicked on Login button
+21:46:09 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+09:31:26 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+09:46:48 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+09:46:54 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+09:46:54 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+09:46:55 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+09:46:55 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+09:46:57 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+09:46:57 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+09:46:57 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+09:47:04 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+09:47:05 INFO  [main] TC002_LoginTest - login page opened
+09:47:05 INFO  [main] TC002_LoginTest - Email address enetred
+09:47:05 INFO  [main] TC002_LoginTest - Password enetred
+09:47:06 INFO  [main] TC002_LoginTest - Clicked on Login button
+09:47:06 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+09:48:29 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+09:48:36 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+09:48:36 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+09:48:36 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+09:48:37 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+09:48:39 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+09:48:39 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+09:48:39 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+09:48:45 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+09:48:46 INFO  [main] TC002_LoginTest - login page opened
+09:48:46 INFO  [main] TC002_LoginTest - Email address enetred
+09:48:46 INFO  [main] TC002_LoginTest - Password enetred
+09:48:47 INFO  [main] TC002_LoginTest - Clicked on Login button
+09:48:47 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+09:53:31 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+09:53:37 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+09:53:37 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+09:53:38 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+09:53:38 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+09:53:40 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+09:53:40 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+09:53:40 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+09:53:46 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+09:53:47 INFO  [main] TC002_LoginTest - login page opened
+09:53:47 INFO  [main] TC002_LoginTest - Email address enetred
+09:53:47 INFO  [main] TC002_LoginTest - Password enetred
+09:53:47 INFO  [main] TC002_LoginTest - Clicked on Login button
+10:03:32 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+10:03:39 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+10:03:39 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+10:03:39 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+10:03:39 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+10:03:41 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+10:03:42 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+10:03:42 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+10:03:48 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+10:03:49 INFO  [main] TC002_LoginTest - login page opened
+10:03:49 INFO  [main] TC002_LoginTest - Email address enetred
+10:03:49 INFO  [main] TC002_LoginTest - Password enetred
+10:03:49 INFO  [main] TC002_LoginTest - Clicked on Login button
+10:14:36 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+10:14:42 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+10:14:43 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+10:14:43 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+10:14:43 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+10:14:45 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+10:14:45 ERROR [main] TC001_AccountRegistrationTest - Test case failed due to validation message is incorrect
+10:14:51 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+10:14:53 INFO  [main] TC002_LoginTest - login page opened
+10:14:53 INFO  [main] TC002_LoginTest - Email address enetred
+10:14:53 INFO  [main] TC002_LoginTest - Password enetred
+10:14:54 INFO  [main] TC002_LoginTest - Clicked on Login button
+10:16:40 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+10:16:45 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+10:16:46 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+10:16:46 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+10:16:46 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+10:16:48 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+10:16:48 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+10:16:48 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+10:16:54 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+10:16:55 INFO  [main] TC002_LoginTest - login page opened
+10:16:55 INFO  [main] TC002_LoginTest - Email address enetred
+10:16:55 INFO  [main] TC002_LoginTest - Password enetred
+10:16:55 INFO  [main] TC002_LoginTest - Clicked on Login button
+10:16:56 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+11:42:32 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:43:45 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:43:52 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:43:53 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:43:53 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:43:53 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:43:56 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:43:56 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:43:56 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:45:27 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:45:32 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:45:33 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:45:33 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:45:33 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:45:35 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:45:35 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:45:35 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:47:26 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:47:31 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:47:31 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:47:32 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:47:32 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:47:34 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:47:34 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:47:34 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:49:32 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:49:38 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:49:38 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:49:39 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:49:39 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:49:41 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:49:41 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:49:41 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:50:13 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:50:19 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:50:20 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:50:20 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:50:20 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:50:22 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:50:23 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:50:23 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:50:28 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+11:50:28 INFO  [main] TC002_LoginTest - login page opened
+11:50:29 INFO  [main] TC002_LoginTest - Email address enetred
+11:50:29 INFO  [main] TC002_LoginTest - Password enetred
+11:50:29 INFO  [main] TC002_LoginTest - Clicked on Login button
+11:55:02 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:55:09 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:55:09 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:55:10 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:55:10 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:55:12 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:55:12 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:55:12 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:55:19 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+11:55:19 INFO  [main] TC002_LoginTest - login page opened
+11:55:19 INFO  [main] TC002_LoginTest - Email address enetred
+11:55:20 INFO  [main] TC002_LoginTest - Password enetred
+11:55:20 INFO  [main] TC002_LoginTest - Clicked on Login button
+11:56:14 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:56:19 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:56:19 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:56:20 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:56:20 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:56:22 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:56:22 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:56:22 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:58:05 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+11:58:09 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+11:58:10 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+11:58:10 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+11:58:10 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+11:58:12 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+11:58:12 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+11:58:12 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+11:58:18 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+11:58:18 INFO  [main] TC002_LoginTest - login page opened
+11:58:19 INFO  [main] TC002_LoginTest - Email address enetred
+11:58:19 INFO  [main] TC002_LoginTest - Password enetred
+11:58:19 INFO  [main] TC002_LoginTest - Clicked on Login button
+02:13:25 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+02:13:33 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+02:13:33 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+02:13:34 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+02:13:34 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+02:13:36 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+02:13:36 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+02:13:36 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+02:13:43 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+02:13:44 INFO  [main] TC002_LoginTest - login page opened
+02:13:44 INFO  [main] TC002_LoginTest - Email address enetred
+02:13:44 INFO  [main] TC002_LoginTest - Password enetred
+02:13:45 INFO  [main] TC002_LoginTest - Clicked on Login button
+02:13:45 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+02:15:03 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+02:19:34 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+02:23:57 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+02:25:07 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+02:26:15 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+22:04:54 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+22:06:18 INFO  [main] Utils - [TestNG] Running:
+  D:\WorkSpace\OpencartFramework\master.xml
+
+22:06:27 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+22:06:27 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+22:06:28 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+22:06:28 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+22:06:30 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+22:06:30 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+22:06:30 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+22:06:38 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+22:06:39 INFO  [main] TC002_LoginTest - login page opened
+22:06:39 INFO  [main] TC002_LoginTest - Email address enetred
+22:06:39 INFO  [main] TC002_LoginTest - Password enetred
+22:06:40 INFO  [main] TC002_LoginTest - Clicked on Login button
+22:06:40 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+22:07:29 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+22:07:29 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+22:07:30 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+22:07:30 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+22:07:32 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+22:07:32 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+22:07:32 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+22:07:38 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+22:07:39 INFO  [main] TC002_LoginTest - login page opened
+22:07:40 INFO  [main] TC002_LoginTest - Email address enetred
+22:07:40 INFO  [main] TC002_LoginTest - Password enetred
+22:07:41 INFO  [main] TC002_LoginTest - Clicked on Login button
+22:07:41 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application
+00:43:28 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest started
+00:43:29 INFO  [main] TC001_AccountRegistrationTest - Clicked on MyAccount dropDown
+00:43:30 INFO  [main] TC001_AccountRegistrationTest - Clicked on Register button
+00:43:30 INFO  [main] TC001_AccountRegistrationTest - providing user details into application
+00:43:32 INFO  [main] TC001_AccountRegistrationTest - clicked on continue button after providing all the user details into application
+00:43:32 INFO  [main] TC001_AccountRegistrationTest - validation message is correct
+00:43:32 INFO  [main] TC001_AccountRegistrationTest - TC001_AccountRegistrationTest Executed and Finished
+00:43:40 INFO  [main] TC002_LoginTest - TC002_LoginTest execution started
+00:43:41 INFO  [main] TC002_LoginTest - login page opened
+00:43:41 INFO  [main] TC002_LoginTest - Email address enetred
+00:43:41 INFO  [main] TC002_LoginTest - Password enetred
+00:43:41 INFO  [main] TC002_LoginTest - Clicked on Login button
+00:43:42 INFO  [main] TC002_LoginTest - TC002_LoginTest execution finished & user succesfully loggedin to the application

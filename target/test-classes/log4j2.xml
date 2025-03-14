@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss} %-5p [%t] %c{1} - %m%n" />
+		</Console>
+
+		<File name="File" fileName="D:\WorkSpace\OpencartFramework\logs\automation.log"
+			append="true">
+			<PatternLayout
+				pattern="%d{HH:mm:ss} %-5p [%t] %c{1} - %m%n" />
+		</File>
+	</Appenders>
+
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+
+</Configuration>
